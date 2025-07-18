@@ -3,7 +3,7 @@ locals {
          
           Project = var.project
           Environment = var.environment
-          Terrform = True
+          Terrform = "True"
        
   }
 }
